@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharfe0188&label=Profile%20views&color=0e75b6&style=flat" alt="sharfe0188" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **excel,Python,Sql,Machine Learning**
+- 💬 Ask me about **excel,Python,Sql,Machine Learning,PowerBI**
 
 - 📫 How to reach me **mdsharfealam000@gmail.com**
 
